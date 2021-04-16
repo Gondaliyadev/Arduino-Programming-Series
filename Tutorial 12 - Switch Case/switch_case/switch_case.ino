@@ -38,5 +38,5 @@ void loop() {
       count = 0;
       break;
   }
-  delay(200);
+  delay(400);
 }
